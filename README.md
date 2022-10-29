@@ -1,1 +1,1 @@
-React app created on Scrimba will be using ide from now on
+Business card react app. 
